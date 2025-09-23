@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sohan_reddy@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1REkzTRKH-JkTBgcFqyr8Ir_v9wRIJ9cX/view](https://drive.google.com/file/d/1REkzTRKH-JkTBgcFqyr8Ir_v9wRIJ9cX/view)
+- 📄 Know about my experiences [here] ([https://drive.google.com/file/d/1REkzTRKH-JkTBgcFqyr8Ir_v9wRIJ9cX/view](https://drive.google.com/file/d/1gjauqsb2pws1fLla8kmm3XSByH05zbJM/view?usp=drive_link))
 
 - ⚡ Fun fact **I think I'm funny**
 
