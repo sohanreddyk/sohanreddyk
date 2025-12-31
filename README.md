@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohan</h1>
-<h3 align="center">I’m a builder of intelligent systems and AI-powered tools that make tech feel like magic.</h3>
+<h3 align="center">I build intelligent systems and AI-powered tools that make tech feel like magic.</h3>
 
 - 🔭 I’m currently working on [Second Brain](https://github.com/sohanreddyk/second-brain)
 
