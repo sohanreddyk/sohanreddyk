@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohan</h1>
 <h3 align="center">I build intelligent systems and AI-powered tools that make tech feel like magic.</h3>
 
-- 🔭 I’m currently working on [Second Brain](https://github.com/sohanreddyk/second-brain)
+- 🔭 I’m currently looking for Software Summer Internships
 
 - 👨‍💻 All of my projects are available at [https://www.sohanreddy.org/](https://www.sohanreddy.org/)
 
